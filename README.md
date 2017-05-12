@@ -3,8 +3,8 @@ first test repository
 
 adding a few test lines
 
-# how does this look in md?
+# Main header
 
-## what about this?
+## Sub header
 
-### Like this???
+### Sub sub header
